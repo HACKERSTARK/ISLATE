@@ -14,22 +14,8 @@ The project translates ISL gestures into text and provides **multilingual voice 
 ---
 
 ## 📂 Project Structure  
+<img width="450" height="335" alt="image" src="https://github.com/user-attachments/assets/19d0d102-522d-4863-bfa3-09d3b8b6ef37" />
 
-├── app.py # Tkinter GUI for ISL translation 
-├── collectdata.py # Script to collect ISL gesture images
-├── data.py # Preprocessing & dataset handling
-├── data1.py # Additional helper script
-├── requirements.txt # Python dependencies
-├── .gitignore # Git ignore rules
-├── workspace
-│ ├── annotations # Label maps, TFRecords
-│ ├── images # Training/test/collected gesture images
-│ ├── models # Custom trained models
-│ └── pre-trained-models # Pre-trained SSD MobileNet model
-└── Tensorflow
-├── labelImg # Labeling tool
-├── models # TensorFlow Object Detection API
-└── scripts # Helper scripts
 ---
 
 ## ⚙️ Installation  
