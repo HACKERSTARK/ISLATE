@@ -1,0 +1,27 @@
+# Virtual environment
+tf38_env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# TensorFlow checkpoints and trained models
+workspace/models/pre-trained-models/**/checkpoint/
+workspace/models/pre-trained-models/**/saved_model/
+
+# TFRecords (large binary files)
+workspace/annotations/*.record
+
+# Collected & training images
+workspace/images/collectedimages/
+workspace/images/train/
+workspace/images/test/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ignore TensorFlow models repo
+Tensorflow/models/

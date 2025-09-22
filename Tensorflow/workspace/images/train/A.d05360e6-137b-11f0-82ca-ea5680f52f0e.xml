@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>A.d05360e6-137b-11f0-82ca-ea5680f52f0e.jpg</filename>
+	<path>C:\Users\vinay\Downloads\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\A.d05360e6-137b-11f0-82ca-ea5680f52f0e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>A</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>195</ymin>
+			<xmax>595</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Space.9b2ae348-137c-11f0-a40e-ea5680f52f0e.jpg</filename>
+	<path>C:\Users\vinay\Downloads\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\Space.9b2ae348-137c-11f0-a40e-ea5680f52f0e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>267</xmin>
+			<ymin>165</ymin>
+			<xmax>535</xmax>
+			<ymax>305</ymax>
+		</bndbox>
+	</object>
+</annotation>
