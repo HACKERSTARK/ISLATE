@@ -15,7 +15,7 @@ The project translates ISL gestures into text and provides **multilingual voice 
 
 ## 📂 Project Structure  
 
-├── app.py # Tkinter GUI for ISL translation
+├── app.py # Tkinter GUI for ISL translation 
 ├── collectdata.py # Script to collect ISL gesture images
 ├── data.py # Preprocessing & dataset handling
 ├── data1.py # Additional helper script
